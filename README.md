@@ -1,4 +1,4 @@
-# Sakila Database Analysis Project 📊
+# Sakila Database Analysis Practice 📊
 
 ## Overview
 
